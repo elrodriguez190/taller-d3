@@ -1,0 +1,24 @@
+circle {
+fill:#ffe0cc;
+stroke: gray;
+stroke-width: 5px;
+}
+.half{
+  fill:white;
+  stroke:pink;
+  stroke-width: 10px;
+}
+line{
+stroke:red;
+stroke-width:10px;
+
+}
+.gafas{
+  fill:#3d3a3a;
+  stroke:white;
+  stroke-width: 15px;
+}
+.gafas-linea{
+  stroke:white;
+  stroke-width:15px;
+}
